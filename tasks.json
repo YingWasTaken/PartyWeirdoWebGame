@@ -1,5 +1,30 @@
 [
     {"name": "Habla con alguien nuevo", "description": "Conoce a alguien que no hayas visto antes", "difficulty": 2, "completed": false },
     {"name": "Da una voltereta lateral", "description": "Intenta una voltereta lateral sin caerte", "difficulty": 1, "completed": false },
-    {"name": "Baila con alguien", "description": "Invita a alguien a bailar", "difficulty": 3, "completed": false }
+    {"name": "Baila con alguien", "description": "Invita a alguien a bailar", "difficulty": 3, "completed": false },
+    {"name": "Haz un chiste a alguien", "description": "Haz reír a alguien con un buen chiste", "difficulty": 1, "completed": false},
+    {"name": "Haz un dibujo rápido con los ojos cerrados", "description": "Dibuja algo con los ojos cerrados en 1 minuto", "difficulty": 2, "completed": false},
+    {"name": "Saca una selfie con 5 personas", "description": "Tómate una selfie con 5 personas diferentes", "difficulty": 2, "completed": false},
+    {"name": "Invita a alguien a un juego de mesa", "description": "Invita a alguien a jugar a un juego de mesa que te guste", "difficulty": 1, "completed": false},
+    {"name": "Haz 20 sentadillas", "description": "Haz 20 sentadillas sin descansar", "difficulty": 1, "completed": false},
+    {"name": "Haz un brindis en otro idioma", "description": "Haz un brindis en un idioma que no sea el tuyo", "difficulty": 2, "completed": false},
+    {"name": "Recita el abecedario al revés", "description": "Recita el abecedario de atrás hacia adelante", "difficulty": 3, "completed": false},
+    {"name": "Haz una historia inventada", "description": "Cuenta una historia inventada en 1 minuto", "difficulty": 1, "completed": false},
+    {"name": "Imita a un personaje famoso", "description": "Imita a un personaje famoso de manera divertida", "difficulty": 2, "completed": false},
+    {"name": "Haz un trabalenguas", "description": "Di un trabalenguas rápido sin equivocarte", "difficulty": 1, "completed": false},
+    {"name": "Haz una acrobacia", "description": "Realiza una acrobacia que no te haga caer", "difficulty": 3, "completed": false},
+    {"name": "Haz un truco de magia", "description": "Haz un truco de magia que puedas realizar", "difficulty": 2, "completed": false},
+    {"name": "Habla con acento extranjero durante 5 minutos", "description": "Habla con un acento extranjero durante 5 minutos", "difficulty": 3, "completed": false},
+    {"name": "Haz 20 saltos de tijera", "description": "Haz 20 saltos sin parar", "difficulty": 1, "completed": false},
+    {"name": "Baila sin música", "description": "Haz un baile improvisado sin que haya música, solo el ritmo en tu cabeza", "difficulty": 5, "completed": false},
+    {"name": "Haz una entrevista falsa", "description": "Entrevista a alguien como si fueras un reportero profesional", "difficulty": 2, "completed": false},
+    {"name": "Haz 10 flexiones", "description": "Realiza 10 flexiones sin descansar", "difficulty": 1, "completed": false},
+    {"name": "Dile algo bonito a una persona", "description": "Hazle un cumplido sincero a alguien en la fiesta", "difficulty": 1, "completed": false},
+    {"name": "Haz un juego de verdad o reto", "description": "Organiza una ronda de verdad o reto con tus amigos", "difficulty": 2, "completed": false},
+    {"name": "Crea una historia colectiva", "description": "Crea una historia donde cada uno aporte una frase o idea", "difficulty": 2, "completed": false},
+    {"name": "Cuenta un secreto a tus amigos", "description": "Comparte un secreto divertido o interesante con el grupo", "difficulty": 2, "completed": false},
+    {"name": "Haz una pregunta rara a un amigo", "description": "Hazle una pregunta absurda a uno de tus amigos", "difficulty": 1, "completed": false},
+    {"name": "Dúchare guarro", "description": "Encuentra alguien que juegue al LOL", "difficulty": 3, "completed": false}
+
+
 ]

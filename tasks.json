@@ -1,7 +1,7 @@
 [
     {"name": "Habla con alguien nuevo", "description": "Conoce a alguien que no hayas visto antes", "difficulty": 2, "completed": false },
     {"name": "Da una voltereta lateral", "description": "Intenta una voltereta lateral sin caerte", "difficulty": 1, "completed": false },
-    {"name": "Baila con alguien", "description": "Invita a alguien a bailar", "difficulty": 3, "completed": false },
+    {"name": "Al agua patos", "description": "Salta la fuente de lao a lao", "difficulty": 5, "completed": false},
     {"name": "Haz un chiste a alguien", "description": "Haz reír a alguien con un buen chiste", "difficulty": 1, "completed": false},
     {"name": "Haz un dibujo rápido con los ojos cerrados", "description": "Dibuja algo con los ojos cerrados en 1 minuto", "difficulty": 2, "completed": false},
     {"name": "Saca una selfie con 5 personas", "description": "Tómate una selfie con 5 personas diferentes", "difficulty": 2, "completed": false},
@@ -24,7 +24,11 @@
     {"name": "Crea una historia colectiva", "description": "Crea una historia donde cada uno aporte una frase o idea", "difficulty": 2, "completed": false},
     {"name": "Cuenta un secreto a tus amigos", "description": "Comparte un secreto divertido o interesante con el grupo", "difficulty": 2, "completed": false},
     {"name": "Haz una pregunta rara a un amigo", "description": "Hazle una pregunta absurda a uno de tus amigos", "difficulty": 1, "completed": false},
-    {"name": "Dúchare guarro", "description": "Encuentra alguien que juegue al LOL", "difficulty": 3, "completed": false}
+    {"name": "Dúchare guarro", "description": "Encuentra alguien que juegue al LOL", "difficulty": 3, "completed": false},
+    {"name": "FRONT-FLIP TIME", "description": "Échale huevos", "difficulty": 5, "completed": false},
+    {"name": "Baila con alguien", "description": "Invita a alguien a bailar", "difficulty": 3, "completed": false }
+
+
 
 
 ]

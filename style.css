@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --bg-color: rgb(190, 9, 9);
+    --second-bg-color: #181818;
+    --text-color: #ffffff;
+    --main-color: rgb(247, 92, 20);
+}
+
+html {
+    overflow-x: hidden;    
+}
+
+body {
+    min-height: 100vh;
+    text-align: center;
+
+
+    color: var(--text-color);
+    background: var(--bg-color);
+    background: linear-gradient(52deg, var(--bg-color) 0%,
+     var(--main-color) 100%);
+
+     animation: fadeInBody 1.5s ease-in-out forwards;
+
+}
+
+@keyframes fadeInBody {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+button {
+    font-weight: 600;
+    width: 7rem;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+/* CLASES */
+
+.task {
+    max-width: 90%;
+    min-height: 10rem;
+    max-height: 15rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+
+    padding: 10px;
+    gap: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+    border-radius: 5px;
+    background-color: var(--text-color);
+    color: var(--second-bg-color);
+
+}
+
+.texto {
+
+}
+
+.acciones {
+
+}
+
+.completeTask{
+    background-color: green;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+}
+.completeTask:hover{
+    background-color: greenyellow;
+    transform: scale(1.1);
+}
+
+.deleteTask{
+    background-color: orange;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+}
+.deleteTask:hover{
+    background-color: orangered;
+    transform: scale(1.1);
+}
+
+.reset {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+}
+.reset:hover{
+    background-color: white;
+    color: black;
+    transform: scale(1.1);
+}
+
+/* IDS */ 
+
+#score {
+    color: orange;
+}

@@ -1,0 +1,5 @@
+[
+    {"name": "Habla con alguien nuevo", "description": "Conoce a alguien que no hayas visto antes", "difficulty": 2, "completed": false },
+    {"name": "Da una voltereta lateral", "description": "Intenta una voltereta lateral sin caerte", "difficulty": 1, "completed": false },
+    {"name": "Baila con alguien", "description": "Invita a alguien a bailar", "difficulty": 3, "completed": false }
+]
